@@ -1,8 +1,8 @@
 {
+  "homepage":"http://m-m4h4d.github.io/DSA",
   "name": "routing-playground",
   "version": "1.0.3",
   "private": true,
-  "homepage": "http://.",
   "dependencies": {
     "@googlemaps/react-wrapper": "^1.1.17",
     "@testing-library/jest-dom": "^5.16.1",
